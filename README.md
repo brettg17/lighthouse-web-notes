@@ -5,4 +5,4 @@
 
 ## Summary
 
-This repository contains all the notes taken by Brett for the lighthouse web development bootcamp
+This repository contains all the notes taken by [Brett](https://github.com/brettg17) for the lighthouse web development bootcamp
